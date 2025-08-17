@@ -83,13 +83,13 @@ button:hover {
 
 #result {
   margin-top: 30px;
-  padding: 0%;   /* ⬅️ add space inside */
+  padding: 50px;   /* ⬅️ add space inside */
   background: rgb(84, 81, 109);
   border-radius: 25px; /* ⬆️ make border smoother */
   box-shadow: 0 6px 15px rgba(0,0,0,0.15);
   max-width: 900px;    /* ⬆️ wider */
   width: 100%;
-  opacity: 0.5;
+  opacity: 0;
   transform: translateY(20px);
   transition: all 0.6s ease;
   text-align: center;
